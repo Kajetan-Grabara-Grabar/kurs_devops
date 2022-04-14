@@ -1,1 +1,4 @@
 test
+po trzech godzinach udało się
+okazało się, że wygenerowałem zły klucz
+mam nadzieję, że od teraz wszytko będzie działać jak powinno
