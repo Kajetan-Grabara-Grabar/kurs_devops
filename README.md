@@ -1,2 +1,2 @@
-# kurs_devops
-# branch develop zmiany
+#kurs_devops
+#branch develop
