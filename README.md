@@ -1,2 +1,2 @@
 # kurs_devops
-# branch develop it is
+# branch develop zmiany
